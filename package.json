@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@inlang/sdk-js": "^0.11.8"
+	}
+}
